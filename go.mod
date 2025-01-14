@@ -2,7 +2,10 @@ module github.com/funstory-ai/fonthub
 
 go 1.23.4
 
-require github.com/gin-gonic/gin v1.10.0
+require (
+	github.com/gin-gonic/gin v1.10.0
+	github.com/sirupsen/logrus v1.9.3
+)
 
 require (
 	github.com/bytedance/sonic v1.11.6 // indirect

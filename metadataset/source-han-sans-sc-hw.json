@@ -1,0 +1,25 @@
+{
+    "name": "Source Han Sans SC HW",
+    "license": "OFL",
+    "version": "2.004R",
+    "categories": [
+        "sans-serif"
+    ],
+    "widths": [
+        "half-width"
+    ],
+    "weights": [
+        "regular"
+    ],
+    "styles": [
+        "normal"
+    ],
+    "languages": [
+        "zh-CN"
+    ],
+    "source": "https://github.com/adobe-fonts/source-han-sans",
+    "fontsFiles": {
+        "link": "https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSansHWSC.zip",
+        "path": "OTF/SimplifiedChineseHW/SourceHanSansHWSC-Regular.otf"
+    }
+}
