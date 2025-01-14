@@ -1,0 +1,19 @@
+{
+    "name": "Source Han Sans",
+    "license": "OFL",
+    "styles": [
+        "normal"
+    ],
+    "weights": [
+        "extralight",
+        "light",
+        "regular",
+        "medium",
+        "bold",
+        "heavy"
+    ],
+    "categories": [
+        "sans-serif"
+    ],
+    "source": "https://github.com/adobe-fonts/source-han-sans"
+}
